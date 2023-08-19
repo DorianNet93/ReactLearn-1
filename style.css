@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  padding: 10px 0 10px 0;
+  border: 1px solid;
+}
+
+ul {
+  padding: 0 40px 0 40px;
+}
+
+.row__brand {
+  text-align: center;
+  background-color: rgb(101, 101, 255);
+}
+
+.row__brand--text {
+  font-size: 18px;
+  font-weight: 800;
+  color: white;
+}
+
+.cell__model {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(191, 60, 104);
+}
+
+.cell__model--text{
+  font-size: 18px;
+  font-weight: 800;
+  color: white;
+}
